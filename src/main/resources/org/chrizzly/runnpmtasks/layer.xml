@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Editors">
+        <folder name="text">
+            <folder name="package+x-json">
+                <folder name="SideBar">
+                    <file name="org-chrizzly-runnpmtasks-RunNpmTasksSideBarFactory.instance">
+                        <attr name="position" intvalue="1300"/>
+                        <attr name="location" stringvalue="West"/>
+                        <attr name="scrollable" boolvalue="true"/>
+                    </file>
+                </folder>
+            </folder>
+        </folder>
+    </folder>
+</filesystem>

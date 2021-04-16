@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Layer: org/chrizzly/runnpmtasks/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/chrizzly/runnpmtasks/Bundle.properties
+
