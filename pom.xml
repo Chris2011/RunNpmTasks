@@ -34,6 +34,11 @@
     </build>
     <repositories>
         <repository>
+            <id>old-netbeans</id>
+            <name>NetBeans</name>
+            <url>https://netbeans.apidesign.org/maven2/</url>
+        </repository>
+        <repository>
             <id>netbeans</id>
             <name>Repository hosting NetBeans modules</name>
             <url>http://bits.netbeans.org/nexus/content/groups/netbeans</url>
@@ -140,6 +145,11 @@
         <dependency>
             <groupId>org.netbeans.api</groupId>
             <artifactId>org-openide-dialogs</artifactId>
+            <version>RELEASE82</version>
+        </dependency>
+        <dependency>
+            <groupId>org.netbeans.api</groupId>
+            <artifactId>org-netbeans-modules-editor-lib</artifactId>
             <version>RELEASE82</version>
         </dependency>
     </dependencies>
