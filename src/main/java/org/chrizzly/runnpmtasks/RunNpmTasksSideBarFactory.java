@@ -2,7 +2,6 @@ package org.chrizzly.runnpmtasks;
 
 import javax.swing.JComponent;
 import javax.swing.text.JTextComponent;
-import org.netbeans.api.editor.mimelookup.MimeRegistration;
 import org.netbeans.spi.editor.SideBarFactory;
 
 /**

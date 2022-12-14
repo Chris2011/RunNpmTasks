@@ -11,6 +11,6 @@ import javax.swing.text.JTextComponent;
 public class RunNpmTasksSideBarPanel extends JPanel {
     public RunNpmTasksSideBarPanel(JTextComponent target) {
         super(new BorderLayout());
-        add(new DrawingPanel(target), BorderLayout.CENTER);
+        add(new DrawingPanel(target));
     }
 }
